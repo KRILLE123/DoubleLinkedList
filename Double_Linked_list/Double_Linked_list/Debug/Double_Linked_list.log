@@ -1,0 +1,3 @@
+﻿  Double_Linked_list.cpp
+A:\Downloads\Double_Linked_list\Double_Linked_list\Double_Linked_list\Double_Linked_list.cpp(80): warning C4715: 'LinkedList::Contains': not all control paths return a value
+  Double_Linked_list.vcxproj -> A:\Downloads\Double_Linked_list\Double_Linked_list\Debug\Double_Linked_list.exe
