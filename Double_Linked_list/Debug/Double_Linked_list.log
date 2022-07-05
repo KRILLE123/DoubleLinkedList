@@ -1,4 +1,0 @@
-﻿  Double_Linked_list.cpp
-C:\Users\INF\source\repos\Double_Linked_list\Double_Linked_list\Double_Linked_list.cpp(80): warning C4715: 'LinkedList::Contains': not all control paths return a value
-C:\Users\INF\source\repos\Double_Linked_list\Double_Linked_list\Double_Linked_list.cpp(144): warning C4715: 'LinkedList::GetLast': not all control paths return a value
-  Double_Linked_list.vcxproj -> C:\Users\INF\source\repos\Double_Linked_list\Debug\Double_Linked_list.exe
